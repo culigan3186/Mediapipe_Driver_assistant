@@ -11,6 +11,4 @@ mediapipe: https://google.github.io/mediapipe/
 
 2. 손가락 제스처를 활용해 자동차 내부 시스템을 제어합니다.
 
-## 구현결과
-
 
